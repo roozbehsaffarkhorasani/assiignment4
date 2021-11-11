@@ -1,0 +1,9 @@
+a=int(input("enter height of list")
+b=[]
+for i in range(a):
+    c=int(input("enter number")
+    c.append(b)
+    if b[i] == b[i+1]:
+        print("wrong try again")
+        break
+    return
